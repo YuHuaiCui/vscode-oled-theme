@@ -1,0 +1,22 @@
+{
+  "name": "yuhuaicui-dark",
+  "displayName": "YuHuaiCui Dark",
+  "description": "OLED-friendly theme with Tuero syntax and soft backgrounds for code/terminal.",
+  "version": "1.0.0",
+  "publisher": "YuHuaiCui",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "YuHuaiCui Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yuhuaicui_dark.json"
+      }
+    ]
+  }
+}
