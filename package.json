@@ -16,6 +16,21 @@
         "label": "YuHuaiCui Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/yuhuaicui_dark.json"
+      },
+      {
+        "label": "YuHuaiCui Dark - Poimandres Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yuhuaicui_dark_poimandres.json"
+      },
+      {
+        "label": "YuHuaiCui Dark - Poimandres Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yuhuaicui_dark_storm.json"
+      },
+      {
+        "label": "YuHuaiCui Dark - Poimandres White",
+        "uiTheme": "vs-light",
+        "path": "./themes/yuhuaicui_dark_white.json"
       }
     ]
   }
